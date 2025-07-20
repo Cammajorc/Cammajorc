@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cammajorc
-- 👀 I’m interested in ... Marketing Analytics
-- 🌱 I’m currently learning ... Data Analytics and Marketing
+- 👀 I’m interested in ... Financial Analytics
+- 🌱 I am certified in ... Data Analytics and Finance Essentials
 - 📫 How to reach me ... cameronmcheatham@gmail.com
 - 😄 Pronouns: ... He/Him/His
 
